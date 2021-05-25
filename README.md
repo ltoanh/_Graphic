@@ -1,6 +1,8 @@
 # Graphic
 BTL KTDH
-add parameters:
--lfreeglut
--lopengl32
--lglu32
+-------------
++ use freeglut
++ add parameters:
+  -lfreeglut
+  -lopengl32
+  -lglu32
