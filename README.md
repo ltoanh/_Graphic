@@ -1,6 +1,5 @@
 # Graphic
 BTL KTDH
--------------
 + use freeglut
 + add parameters:
   -lfreeglut
