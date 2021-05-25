@@ -45,8 +45,8 @@ void lineBresenham(){
 	glClear(GL_COLOR_BUFFER_BIT);
 	glColor3f(1.0, 1.0, 1.0); //Sets mau net ve - white
 	LineBresenham(10, 10, 200, 200); 
-	LineBresenham(10, 15, 10, 200);
-	LineBresenham(10, 200, 150, 200);
+	//LineBresenham(10, 15, 10, 200);
+	//LineBresenham(10, 200, 150, 200);
 	glViewport(0,0,640,480);
 	glFlush();
 }
